@@ -1,5 +1,5 @@
 # Etch-a-sketch
-A mini projet in which a primitive paint application created with the help of turtle library.
+A mini project in which a primitive paint application created with the help of turtle library.
 
 # How to run:
 This paint programme is just for sketching
